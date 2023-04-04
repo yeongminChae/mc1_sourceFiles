@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "subsonic",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/twostraws/Subsonic",
+      "state" : {
+        "branch" : "main",
+        "revision" : "b9ccab1c94294e2dd87b83d2c9cfb8da01629f84"
+      }
+    },
+    {
+      "identity" : "swiftui-gif",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/globulus/swiftui-gif",
+      "state" : {
+        "revision" : "89af6b7e04b0dc0bf97a721d27fc87c4db8e3829",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 2
+}
